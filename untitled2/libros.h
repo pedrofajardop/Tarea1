@@ -3,14 +3,14 @@
 //
 
 struct Libros {
-    char  titulo[50];
-    char  autor[50];
+    char  titulo[100];
+    char  autor[100];
+    char  edificio[100];
+    char  sede[100];
+    char  estante_seccion[100];
     int  anio;
     int  estante_numero;
-    int  estante_seccion;
     int  piso;
-    int  edificio;
-    int  sede;
 } ;
 
 typedef struct Libros Libro;
