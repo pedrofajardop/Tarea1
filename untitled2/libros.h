@@ -2,6 +2,8 @@
 // Created by Matias Fernandez Mayol on 3/22/22.
 //
 
+void find_book();
+
 struct Libros {
     char  titulo[100];
     char  autor[100];
