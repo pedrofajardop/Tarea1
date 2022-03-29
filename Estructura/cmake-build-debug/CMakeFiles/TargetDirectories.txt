@@ -1,0 +1,3 @@
+/Users/josedelabarra/Desktop/GIT/Lenguajes y Paradigmas/Tarea1/Estructura/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/josedelabarra/Desktop/GIT/Lenguajes y Paradigmas/Tarea1/Estructura/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/josedelabarra/Desktop/GIT/Lenguajes y Paradigmas/Tarea1/Estructura/cmake-build-debug/CMakeFiles/Tarea1.dir
