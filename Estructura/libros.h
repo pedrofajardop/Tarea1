@@ -1,18 +1,19 @@
 //
-// Created by Matias Fernandez Mayol on 3/27/22.
+// Created by Justo Vargas on 15-03-22.
 //
-
 struct Libros {
-    char titulo[50];
-    char autor[50];
+    char *titulo;
+    char *autor;
     int anio;
-    int estante_numero;
-    char estante_seccion[50];
+    int estante;
+    char  *seccion;
     int piso;
-    char edificio[50];
-    char sede[100];
+    char *edificio;
 } ;
 
 typedef struct Libros Libro;
 
-Libro* getLibros(FILE *fp);
+extern int registryCount;
+
+Libro* getLibro(FILE *fp);
+

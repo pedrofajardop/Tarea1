@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.21)
-project(Tarea1 C)
+project(Structs_Files C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Tarea1 main.c libros.h Libros.c)
+add_executable(Structs_Files main.c libros.h libros.c)

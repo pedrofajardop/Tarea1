@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "Tarea1",
+					"name" : "Structs_Files",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "Tarea1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Tarea1-Debug-82a3e6b13aea24c94492.json",
-					"name" : "Tarea1",
+					"id" : "Structs_Files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Structs_Files-Debug-981d0d498dc5808fceef.json",
+					"name" : "Structs_Files",
 					"projectIndex" : 0
 				}
 			]

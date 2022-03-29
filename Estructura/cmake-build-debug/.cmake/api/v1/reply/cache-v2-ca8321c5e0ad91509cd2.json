@@ -699,7 +699,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Tarea1"
+			"value" : "Structs_Files"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -982,7 +982,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Tarea1_BINARY_DIR",
+			"name" : "Structs_Files_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -994,7 +994,7 @@
 			"value" : "/Users/josedelabarra/Desktop/GIT/Lenguajes y Paradigmas/Tarea1/Estructura/cmake-build-debug"
 		},
 		{
-			"name" : "Tarea1_IS_TOP_LEVEL",
+			"name" : "Structs_Files_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1006,7 +1006,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Tarea1_SOURCE_DIR",
+			"name" : "Structs_Files_SOURCE_DIR",
 			"properties" : 
 			[
 				{
